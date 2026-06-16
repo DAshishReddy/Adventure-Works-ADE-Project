@@ -1,6 +1,6 @@
 [
   {
-    "p_rel_url": "DAshishReddy/Adventure-Works-ADE-Project/refs/heads/main/Data-Files/AdventureWorks_Calendar.csv"
+    "p_rel_url": "DAshishReddy/Adventure-Works-ADE-Project/refs/heads/main/Data-Files/AdventureWorks_Calendar.csv",
     "p_sink_folder": "Bronze_Data_RAW",
     "p_file_name": "AdventureWorks_Calendar.csv"
   },{
