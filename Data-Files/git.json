@@ -1,0 +1,43 @@
+[
+  {
+    "p_rel_url": "DAshishReddy/Adventure-Works-ADE-Project/refs/heads/main/Data-Files/AdventureWorks_Calendar.csv"
+    "p_sink_folder": "Bronze_Data_RAW",
+    "p_file_name": "AdventureWorks_Calendar.csv"
+  },{
+    "p_rel_url": "DAshishReddy/Adventure-Works-ADE-Project/refs/heads/main/Data-Files/AdventureWorks_Customers.csv",
+    "p_sink_folder": "Bronze_Data_RAW",
+    "p_file_name": "AdventureWorks_Customers.csv"
+  },{
+    "p_rel_url": "DAshishReddy/Adventure-Works-ADE-Project/refs/heads/main/Data-Files/AdventureWorks_Product_Categories.csv",
+    "p_sink_folder": "Bronze_Data_RAW",
+    "p_file_name": "AdventureWorks_Product_Categories.csv"
+  },{
+  "p_rel_url": "DAshishReddy/Adventure-Works-ADE-Project/refs/heads/main/Data-Files/AdventureWorks_Product_Subcategories.csv",
+  "p_sink_folder": "Bronze_Data_RAW",
+  "p_file_name": "AdventureWorks_Product_Subcategories.csv"
+  },{
+    "p_rel_url": "DAshishReddy/Adventure-Works-ADE-Project/refs/heads/main/Data-Files/AdventureWorks_Products.csv",
+    "p_sink_folder": "Bronze_Data_RAW",
+    "p_file_name": "AdventureWorks_Products.csv"
+  },{
+    "p_rel_url": "DAshishReddy/Adventure-Works-ADE-Project/refs/heads/main/Data-Files/AdventureWorks_Returns.csv",
+    "p_sink_folder": "Bronze_Data_RAW",
+    "p_file_name": "AdventureWorks_Returns.csv"
+  },{
+    "p_rel_url": "DAshishReddy/Adventure-Works-ADE-Project/refs/heads/main/Data-Files/AdventureWorks_Sales_2015.csv",
+    "p_sink_folder": "Bronze_Data_RAW",
+    "p_file_name": "AdventureWorks_Sales_2015.csv"
+  },{
+    "p_rel_url": "DAshishReddy/Adventure-Works-ADE-Project/refs/heads/main/Data-Files/AdventureWorks_Sales_2016.csv",
+    "p_sink_folder": "Bronze_Data_RAW",
+    "p_file_name": "AdventureWorks_Sales_2016.csv"
+  },{
+    "p_rel_url": "DAshishReddy/Adventure-Works-ADE-Project/refs/heads/main/Data-Files/AdventureWorks_Sales_2017.csv",
+    "p_sink_folder": "Bronze_Data_RAW",
+    "p_file_name": "AdventureWorks_Sales_2017.csv"
+  },{
+    "p_rel_url": "DAshishReddy/Adventure-Works-ADE-Project/refs/heads/main/Data-Files/AdventureWorks_Territories.csv",
+    "p_sink_folder": "Bronze_Data_RAW",
+    "p_file_name": "AdventureWorks_Territories.csv"
+  }
+]
